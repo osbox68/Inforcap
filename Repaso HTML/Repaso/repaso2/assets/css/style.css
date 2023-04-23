@@ -1,0 +1,49 @@
+    #seccion1 {
+        color: blue;
+        background-color: yellow;
+    }
+    
+    header {
+        background-image: url("../img/iguana-1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 150px;
+        font-size: 2rem;
+    }
+    
+    p {
+        margin: 10px 20px 5px 90px;
+        padding: 10px;
+        text-align: center;
+    }
+    
+    div p {
+        color: blue;
+    }
+    
+    .miclase {
+        background-color: black;
+        color: brown;
+    }
+    
+    section div p {
+        background-color: black;
+        font-size: 100px;
+        color: red;
+        color: #D10BF4;
+        color: rgb(209, 11, 244)
+    }
+    
+    section div p {
+        background-color: green;
+    }
+    
+    h1 {
+        text-align: right;
+        color: white;
+        font-weight: bold;
+    }
+    
+    footer {}
+    
+    section {}

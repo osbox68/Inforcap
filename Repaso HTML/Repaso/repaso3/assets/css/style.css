@@ -1,0 +1,11 @@
+section {
+    height: 400px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.miclase {
+    padding: 100px;
+}
